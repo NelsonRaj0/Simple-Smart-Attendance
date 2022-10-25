@@ -2,7 +2,7 @@
 python 3.7.13
 ###### Download facenet.facenet.h5 model from [here](https://drive.google.com/drive/folders/1pwQ3H4aJ8a6yyJHZkTwtjcL4wYWQb7bn) and save it in main directory
 
-### This is simple Smart attendance 
+### This is A Simple Smart Attendance 
 ### using single Image of Overall class Students and marking students as Present or Absent using Keras.Facenet model 
 
 ##### step 1 : LOGIN using (username : admin , password : 0000)
