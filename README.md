@@ -1,5 +1,6 @@
 # Simple-Smart-Attendance
 python 3.7.13
+Download model from [here](https://drive.google.com/drive/folders/1pwQ3H4aJ8a6yyJHZkTwtjcL4wYWQb7bn) and save it in model/keras/
 
 ### This is simple Smart attendance 
 ### using single Image of Overall class Students and marking students as Present or Absent using Keras.Facenet model 
